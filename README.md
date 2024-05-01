@@ -1,6 +1,6 @@
 ### Hi there 👋 
 - 🔭 I’m currently studying on Bilkent University
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Java
 - ⚡ Fun fact: i could not find a fun fact to write here 😆
 
 <!--
